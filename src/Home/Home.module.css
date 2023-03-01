@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.header_div {
+  display: flex;
+
+  align-items: center;
+  gap: 1rem;
+  border-bottom: 2px solid black;
+  background-color: #519fec;
+
+  height: 3rem;
+  width: 15.6rem;
+  margin: -2.5rem;
+  color: white;
+  font-weight: 600;
+}
